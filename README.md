@@ -42,6 +42,6 @@ Type vs. IMDb Score
 Age Certification vs. IMDb Score
 Age Certification vs. Runtime
 
-![Figure_1](https://github.com/Ankitjoshi111/Netflix-Project/assets/147061311/cdcf60cd-803e-4cea-8ed8-69cc6382e946)
+
 
 
