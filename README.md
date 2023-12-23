@@ -13,7 +13,7 @@ Before running the code, ensure that you have the following Python libraries ins
 - scikit-learn
 
 You can install these dependencies using the following command:
-'''bash
+
 pip install pandas numpy matplotlib seaborn scikit-learn
 
 # Getting Started
@@ -42,7 +42,7 @@ Type vs. IMDb Score
 Age Certification vs. IMDb Score
 Age Certification vs. Runtime
 
-'''
+
 
 
 
